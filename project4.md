@@ -81,7 +81,7 @@ sudo mysql -u root -p
  ![1](<img/Screenshot 2024-09-17 022848.png>)
 
 
-### Dns configuring and mapping
+### Step 4; Dns configuring and mapping
 
 For public accessibility, i mapped the ip address to the DNS A record;
 
