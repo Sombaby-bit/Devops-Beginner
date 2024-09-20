@@ -1,16 +1,16 @@
-#  SETTING WORDPRESS WEBSITE USING LAMP STACK
+# PROJECT 4  SETTING WORDPRESS WEBSITE USING LAMP STACK
 
 ## INTRODUCTION
 
 In my project 4 i was able to use lamp stack which consists of Linux,Apache,MySQL,PHP to set up a Wordpress website.
 
-Linux is major component of lamp stack,it serves as the operating system that support the entire configuration. In Lamp stack, Linux coordinates the interaction between Apache,MySQL & PHP,ensuring seamless operation between these components. This foundation allows for high performance, flexibility, and scalability, making Linux a crucial element in the successful deployment and management of a LAMP-based WordPress website.
+*Linux* is major component of lamp stack,it serves as the operating system that support the entire configuration. In Lamp stack, Linux coordinates the interaction between Apache,MySQL & PHP,ensuring seamless operation between these components. This foundation allows for high performance, flexibility, and scalability, making Linux a crucial element in the successful deployment and management of a LAMP-based WordPress website.
 
-Apache acts as the web server that handles client requests and serve web contents. Apache is known for its reliability, security, and flexibility. In a LAMP stack, Apache processes incoming HTTP requests, fetching and delivering web pages to users' browsers. It also supports various modules that extend its functionality, such as URL redirection, authentication, and load balancing
+*Apache* acts as the web server that handles client requests and serve web contents. Apache is known for its reliability, security, and flexibility. In a LAMP stack, Apache processes incoming HTTP requests, fetching and delivering web pages to users' browsers. It also supports various modules that extend its functionality, such as URL redirection, authentication, and load balancing
 
-MySQL is the database management system within the LAMP stack, responsible for storing and managing the data that powers the web applications. As an open-source relational database, MySQL offers robust performance, scalability, and security. In the context of a LAMP stack, MySQL works closely with PHP to handle data operations such as storing user information, retrieving content, and managing transactions. For a WordPress website, MySQL stores all the content, user data, settings, and other essential information, allowing for dynamic content generation and efficient data retrieval. 
+*MySQL* is the database management system within the LAMP stack, responsible for storing and managing the data that powers the web applications. As an open-source relational database, MySQL offers robust performance, scalability, and security. In the context of a LAMP stack, MySQL works closely with PHP to handle data operations such as storing user information, retrieving content, and managing transactions. For a WordPress website, MySQL stores all the content, user data, settings, and other essential information, allowing for dynamic content generation and efficient data retrieval. 
 
-PHP is the scripting language in the LAMP stack, responsible for generating dynamic web content. In the LAMP stack, PHP works in tandem with Apache to handle web requests and interact with the MySQL database to retrieve and manipulate data. For a WordPress website, PHP executes the core logic that powers the site, managing everything from user authentication to content management and plugin functionality. By seamlessly integrating with Apache and MySQL, PHP ensures that your WordPress site is dynamic, interactive, and capable of delivering a rich user experience.
+*PHP* is the scripting language in the LAMP stack, responsible for generating dynamic web content. In the LAMP stack, PHP works in tandem with Apache to handle web requests and interact with the MySQL database to retrieve and manipulate data. For a WordPress website, PHP executes the core logic that powers the site, managing everything from user authentication to content management and plugin functionality. By seamlessly integrating with Apache and MySQL, PHP ensures that your WordPress site is dynamic, interactive, and capable of delivering a rich user experience.
 
 ### Step 1; Deploying an ubuntu server
 
