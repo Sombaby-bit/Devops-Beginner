@@ -12,9 +12,11 @@ In my project 4 i was able to use lamp stack which consists of Linux,Apache,MySQ
 
 **PHP** is the scripting language in the LAMP stack, responsible for generating dynamic web content. In the LAMP stack, PHP works in tandem with Apache to handle web requests and interact with the MySQL database to retrieve and manipulate data. For a WordPress website, PHP executes the core logic that powers the site, managing everything from user authentication to content management and plugin functionality. By seamlessly integrating with Apache and MySQL, PHP ensures that your WordPress site is dynamic, interactive, and capable of delivering a rich user experience.
 
+
 ### Step 1; Deploying an ubuntu server
 
  i successsfully deployed my ubuntu server
+
 
 ### Step 2; Setting up Lamp Stack on the server
 
@@ -52,7 +54,8 @@ i successfully created the directory for projectlamp
 
 i successfully enabled my php on the website
 
-### Step 3;  Istall Wordpress
+
+### Step 3;  Install Wordpress
 
 i proceeded to configure wordpress on the lampstack
 
@@ -65,6 +68,7 @@ sudo wget -c http://wordpress.org/latest.tar.gz
 sudo tar -xzvf latest.tar.gz
 
 2. Database configuration for wordpress
+
 
 sudo mysql -u root -p
 
@@ -85,6 +89,7 @@ For public accessibility, i mapped the ip address to the DNS A record;
 
 ![1](<img/Screenshot 2024-09-17 022848.png>)
 
+
 ### Step 5; Securing the website with SSL/TLS
 
 To enhance security, i installed ssl certificates using cartbot by running the following command;
@@ -98,6 +103,7 @@ sudo certbot --apache
 ![1](<img/Screenshot 2024-09-17 024003.png>)
 
 ![1](<img/Screenshot 2024-09-17 024144.png>)
+
 
 ### CONCLUSION
 
